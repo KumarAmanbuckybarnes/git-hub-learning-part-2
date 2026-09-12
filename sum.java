@@ -9,6 +9,6 @@ public class SumOfTwoNumbers {
 
         System.out.println("First number: " + a);
         System.out.println("Second number: " + b);
-        System.out.println("Sum of entire two numbers: " + sum);
+        System.out.println("Sum of two negative  numbers: " + sum);
     }
 }
